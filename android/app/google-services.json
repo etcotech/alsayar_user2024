@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77210235870",
+    "project_id": "sayar-c8514",
+    "storage_bucket": "sayar-c8514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77210235870:android:284a97007a0ad84c26234f",
+        "android_client_info": {
+          "package_name": "com.sayar.sa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnQcFnpjpBCcxPcb-YP1LPxKV4w1O56c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
